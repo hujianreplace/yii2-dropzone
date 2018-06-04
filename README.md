@@ -1,6 +1,5 @@
-twitf/yii2-dropzone
+coldfox/yii2-dropzone
 ==============
-[![Latest Stable Version](https://poser.pugx.org/twitf/yii2-dropzone/v/stable)](https://packagist.org/packages/twitf/yii2-dropzone)  [![Total Downloads](https://poser.pugx.org/twitf/yii2-dropzone/downloads)](https://packagist.org/packages/twitf/yii2-dropzone)  [![License](https://poser.pugx.org/twitf/yii2-dropzone/license)](https://packagist.org/packages/twitf/yii2-dropzone)
 
 
 Yii2 Dropzone Extention , Supports sorting
